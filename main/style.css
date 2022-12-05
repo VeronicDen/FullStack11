@@ -100,7 +100,7 @@ h2 {
     min-width: 25px;
     padding: 0 25px 3px 0;
     background-color: rgba(255, 255, 255, 0);
-    background-image: url("../img/arrow.png");
+    background-image: url("../img/arrow.WebP");
     background-repeat: no-repeat;
     background-position: center right;
   }
@@ -112,7 +112,7 @@ h2 {
     padding-right: calc((100% - 1170px) / 2);
     padding-top: 56px;
     padding-bottom: 56px;
-    background-image: url("../img/header-image.png");
+    background-image: url("../img/header-image.WebP");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -133,7 +133,7 @@ h2 {
     height: 45px;
     display: flex;
     align-items: center;
-    background-image: url("../img/logo.png");
+    background-image: url("../img/logo.WebP");
     background-position: center left;
     background-repeat: no-repeat;
     cursor: pointer;
@@ -306,19 +306,19 @@ h2 {
     background: #615f7d;
   }
   .tile-box .container .tile-item#third-tile {
-    background: url("../img/first-tile-image.png");
+    background: url("../img/first-tile-image.WebP");
   }
   .tile-box .container .tile-item#fourth-tile {
     background: #bd8cbf;
   }
   .tile-box .container .tile-item#fifth-tile {
-    background: url("../img/second-tile-image.png");
+    background: url("../img/second-tile-image.WebP");
   }
   .tile-box .container .tile-item#sixth-tile {
     background: #82ca9c;
   }
   .tile-box .container .tile-item#seventh-tile {
-    background: url("../img/third-tile-image.png");
+    background: url("../img/third-tile-image.WebP");
   }
   @media (max-width: 1200px) {
     .tile-box {
@@ -472,7 +472,7 @@ h2 {
     padding-right: calc((100% - 1170px) / 2);
     padding-top: 453px;
     padding-bottom: 0;
-    background-image: url("../img/box-image.png");
+    background-image: url("../img/box-image.WebP");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -649,7 +649,7 @@ h2 {
     width: 60px;
     height: 60px;
     background-color: #82ca9c;
-    background-image: url("../img/mark.png");
+    background-image: url("../img/mark.WebP");
     background-repeat: no-repeat;
     background-position: center;
   }
